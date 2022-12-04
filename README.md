@@ -7,3 +7,5 @@
 ![image1](https://github.com/DenisKozarezov/Solar-System/blob/main/images/image-1.png?raw=true)
 
 ![image2](https://github.com/DenisKozarezov/Solar-System/blob/main/images/image2.png?raw=true)
+
+[Ссылка на видео-демонстрацию](https://cloud.mail.ru/public/5Lwh/WRoTVgdLD)
