@@ -8,4 +8,4 @@
 
 ![image2](https://github.com/DenisKozarezov/Solar-System/blob/main/images/image2.png?raw=true)
 
-[![Watch the video](https://cloud.mail.ru/public/5Lwh/WRoTVgdLD)
+[![Watch the video](https://github.com/DenisKozarezov/Solar-System/blob/main/images/image2.png?raw=true)](https://cloud.mail.ru/public/5Lwh/WRoTVgdLD)
