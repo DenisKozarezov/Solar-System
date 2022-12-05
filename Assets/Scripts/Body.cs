@@ -11,8 +11,6 @@ namespace SolarSystem
         public string StringFormat;
         public string OrbitFormat;
         public float OrbitModifier;
-        [Min(1f)]
-        public float Mass;
         [Range(0f, 1f)]
         public float Eccentricity;
         [Min(0f)]

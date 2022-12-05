@@ -1092,7 +1092,7 @@ MonoBehaviour:
   OrbitModifier: 100
   Mass: 1
   Eccentricity: 0.0549
-  Period: 27
+  Period: 1
   EclipticAngle: 5.145
   Counterclockwise: 0
 --- !u!135 &1088929721
